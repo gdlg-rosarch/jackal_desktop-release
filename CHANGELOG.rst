@@ -2,6 +2,11 @@
 Changelog for package jackal_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.1 (2015-01-20)
+------------------
+* Add version number blocks.
+* Contributors: Mike Purvis
+
 0.3.0 (2014-12-12)
 ------------------
 
