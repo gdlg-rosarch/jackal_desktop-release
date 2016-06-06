@@ -2,6 +2,9 @@
 Changelog for package jackal_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.2 (2016-06-06)
+------------------
+
 0.3.1 (2015-01-20)
 ------------------
 * Add version number blocks.
