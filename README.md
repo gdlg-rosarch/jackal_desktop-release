@@ -1,3 +1,28 @@
+## jackal_desktop (indigo) - 0.3.2-0
+
+The packages in the `jackal_desktop` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo jackal_desktop` on `Mon, 06 Jun 2016 14:09:27 -0000`
+
+These packages were released:
+- `jackal_desktop`
+- `jackal_viz`
+
+Version of package(s) in repository `jackal_desktop`:
+
+- upstream repository: https://github.com/jackal/jackal_desktop.git
+- release repository: https://github.com/clearpath-gbp/jackal_desktop-release.git
+- rosdistro version: `0.3.1-0`
+- old version: `0.3.1-0`
+- new version: `0.3.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## jackal_desktop (indigo) - 0.3.1-0
 
 The packages in the `jackal_desktop` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release -r indigo -t indigo jackal_desktop` on `Wed, 21 Jan 2015 11:55:29 -0000`
