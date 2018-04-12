@@ -1,3 +1,28 @@
+## jackal_desktop (kinetic) - 0.3.2-0
+
+The packages in the `jackal_desktop` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release jackal_desktop -t kinetic -r kinetic --new-track` on `Thu, 12 Apr 2018 05:39:08 -0000`
+
+These packages were released:
+- `jackal_desktop`
+- `jackal_viz`
+
+Version of package(s) in repository `jackal_desktop`:
+
+- upstream repository: https://github.com/jackal/jackal_desktop.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.3.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## jackal_desktop (indigo) - 0.3.2-0
 
 The packages in the `jackal_desktop` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo jackal_desktop` on `Mon, 06 Jun 2016 14:09:27 -0000`
